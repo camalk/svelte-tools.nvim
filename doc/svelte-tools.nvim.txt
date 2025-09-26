@@ -1,37 +1,37 @@
-*my-template-docs.txt*      For Neovim >= 0.8.0      Last change: 2025 July 09
+*svelte-tools.nvim.txt*   For Neovim >= 0.11.0  Last change: 2025 September 26
 
 ==============================================================================
-Table of Contents                         *my-template-docs-table-of-contents*
+Table of Contents                        *svelte-tools.nvim-table-of-contents*
 
-1. A Neovim Plugin Template        |my-template-docs-a-neovim-plugin-template|
-  - Using it              |my-template-docs-a-neovim-plugin-template-using-it|
-  - Features and structure|my-template-docs-a-neovim-plugin-template-features-and-structure|
-2. Links                                              |my-template-docs-links|
+1. svelte-tools.nvim                     |svelte-tools.nvim-svelte-tools.nvim|
+  - Using it                    |svelte-tools.nvim-svelte-tools.nvim-using-it|
+  - Features and structure|svelte-tools.nvim-svelte-tools.nvim-features-and-structure|
+2. Links                                             |svelte-tools.nvim-links|
 
 ==============================================================================
-1. A Neovim Plugin Template        *my-template-docs-a-neovim-plugin-template*
+1. svelte-tools.nvim                     *svelte-tools.nvim-svelte-tools.nvim*
 
 
 
 A template repository for Neovim plugins.
 
 
-USING IT                  *my-template-docs-a-neovim-plugin-template-using-it*
+USING IT                        *svelte-tools.nvim-svelte-tools.nvim-using-it*
 
-Via `gh`
+Via `gh`:
 
 >
     $ gh repo create my-plugin -p ellisonleao/nvim-plugin-template
 <
 
-Viagithub web page:
+Via github web page:
 
 Click on `Use this template`
 
 
 
 
-FEATURES AND STRUCTURE*my-template-docs-a-neovim-plugin-template-features-and-structure*
+FEATURES AND STRUCTURE*svelte-tools.nvim-svelte-tools.nvim-features-and-structure*
 
 - 100% Lua
 - Github actions for:
@@ -60,7 +60,7 @@ PLUGIN STRUCTURE ~
 <
 
 ==============================================================================
-2. Links                                              *my-template-docs-links*
+2. Links                                             *svelte-tools.nvim-links*
 
 1. *GitHub Workflow Status*: https://img.shields.io/github/actions/workflow/status/ellisonleao/nvim-plugin-template/lint-test.yml?branch=main&style=for-the-badge
 2. *Lua*: https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua
